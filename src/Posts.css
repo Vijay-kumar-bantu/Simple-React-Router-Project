@@ -1,0 +1,16 @@
+.Post-area {
+  padding: 10px;
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.Post {
+  padding: 10px;
+  height: 15em;
+  width: 30%;
+  border: solid 3px black;
+  border-radius: 10px;
+  overflow: hidden;
+}
